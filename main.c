@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello from Lab0!\n");
+    printf("Feature branch says hello!\n");
 }
